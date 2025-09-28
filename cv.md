@@ -36,8 +36,8 @@ I enjoy React, TypeScript and modern CSS. I build educational projects.
 
 # Projects and Work Experience
  
-- **[Fridge Magnets App](https://github.com/Lewyyshub/music-app)** — Built with Next.js & TypeScript. Features playlists, search, and song/artist pages.
-- **[Expenses App](https://github.com/Lewyyshub/expenses-app)** — Node.js, Express & Cloudinary integration. Create, update, delete and view expenses with image upload.
+- **[Fridge Magnets App](https://magneto-eight.vercel.app/)** — Built with Next.js, JavaScript & TailwindCss.
+- **[Password Generator](https://my-app-seven-liart-65.vercel.app/)** — Built with TypeScript and TailwindCss.
 
 
 # Code Example (Codewars) — Sum of two lowest positive integers
